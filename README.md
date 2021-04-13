@@ -1,0 +1,2 @@
+# Baseball_Success_Predictors
+This is a project that I did in my Intro to Data Science class. I answered three main questions using the Lahman's Baseball Dataset: Can quantitative measures of a team’s hitting and/or pitching success be used as predictors for the number of wins a team will have in a season?  What team has the most postseason wins? What is the average age of players who are awarded MVP?
